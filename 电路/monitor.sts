@@ -1,0 +1,22 @@
+#Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
+#Host 
+#ROUTING STATUS <<< D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn >>>
+Start  Time: Report Time: Sat Jan 16 13:37:10 2016
+
+Nets         =       61   Connections         =      160
+Current Wire =      232   Reroute wires       =      232
+Completion   =  100.00%   Unconnections       =        0
+| ROUTING HISTORY ================================================================
+|     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+|   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+|----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+| Route    |  1|   293|     4|   0|    0|   28|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  2|   117|     7|   0|    0|   60|    0|   0| 58|  0:00:01|  0:00:01|
+| Route    |  3|    53|     1|   0|    0|   66|    0|   0| 56|  0:00:00|  0:00:01|
+| Route    |  4|    26|     0|   0|    0|   77|    0|   0| 51|  0:00:01|  0:00:02|
+| Route    |  5|     1|     0|   0|    0|  100|    0|   0| 96|  0:00:00|  0:00:02|
+| Route    |  6|     0|     5|   0|    0|  100|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    |  7|     0|     0|   0|    0|  100|    0|   0|100|  0:00:00|  0:00:02|
+| Clean    |  8|     0|     0|   0|    0|   89|    0|   0|   |  0:00:00|  0:00:02|
+| Clean    |  9|     0|     0|   0|    0|   88|    0|   0|   |  0:00:01|  0:00:03|
+| Conflicts between polygon wires and fixed objects:   0

@@ -1,0 +1,313 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Dec 10 20:44:56 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/PCB-TinySDK2-1148.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PAD45CIR30SQ being dumped.
+
+  C200D126 being dumped.
+
+  H108C160 being dumped.
+
+  C5D47NP being dumped.
+
+  C035_035 being dumped.
+
+  VIA28C16 being dumped.
+
+  C71D71NP being dumped.
+
+  H60C90SQ being dumped.
+
+  SMD24X63 being dumped.
+
+  SMD55X50 being dumped.
+
+  SMD47X78 being dumped.
+
+  SMD94X59 being dumped.
+
+  SMD59X78 being dumped.
+
+  OH064X011 being dumped.
+
+  C5MMD3MM being dumped.
+
+  O70X80D45 being dumped.
+
+  OV011X064 being dumped.
+
+  O59X78D43 being dumped.
+
+  O86X98D62 being dumped.
+
+  C54D39-L-A being dumped.
+
+  SMD78X118 being dumped.
+
+  C100D100NP being dumped.
+
+  O70X100D60 being dumped.
+
+  O65X110D31 being dumped.
+
+  R65X110D31 being dumped.
+
+  H120CIR080 being dumped.
+
+  S54D39-L-A being dumped.
+
+  SMDO12X32 being dumped.
+
+  SMDO32X12 being dumped.
+
+  C5MMD3MM1 being dumped.
+
+  C5MMD3MM2 being dumped.
+
+  SMDO35X11 being dumped.
+
+  C150D137NP being dumped.
+
+  O59X110D39 being dumped.
+
+  SMDR12X80 being dumped.
+
+  R59X110D39 being dumped.
+
+  SMDR28X40 being dumped.
+
+  SMDR59X11 being dumped.
+
+  SMDR40X48 being dumped.
+
+  SMDR70X37 being dumped.
+
+  SMDR37X35 being dumped.
+
+  SMD100X120 being dumped.
+
+  SMDR88X88 being dumped.
+
+  SMD213X276 being dumped.
+
+  REV020X083 being dumped.
+
+  REV060X062 being dumped.
+
+  REV040X048 being dumped.
+
+  O120X100D87 being dumped.
+
+  REV059X083 being dumped.
+
+  PAD45CIR30 being dumped.
+
+  SMD50X50-L being dumped.
+
+  SMD24X75-L being dumped.
+
+  SMD36X36-L being dumped.
+
+  SMD60REC13 being dumped.
+
+  SMDO98X160 being dumped.
+
+  SMDR120X100 being dumped.
+
+  SMDR130X130 being dumped.
+
+  SMDR150X150 being dumped.
+
+  SMDR164X164 being dumped.
+
+  VIA40 being dumped.
+
+  C60D40 being dumped.
+
+  C50D27 being dumped.
+
+  C47D31 being dumped.
+
+  C65D50 being dumped.
+
+  O78X70D48X40 being dumped.
+
+  C43D28 being dumped.
+
+  C48D33 being dumped.
+
+  C70D39 being dumped.
+
+  H60C90 being dumped.
+
+  H50C28 being dumped.
+
+  C66D35 being dumped.
+
+  C54D39 being dumped.
+
+  C48D28 being dumped.
+
+  C65D39 being dumped.
+
+  H120CIR080SQ being dumped.
+
+  S50D27 being dumped.
+
+  S65D50 being dumped.
+
+  S48D33 being dumped.
+
+  S54D39 being dumped.
+
+  S48D28 being dumped.
+
+  C110D70 being dumped.
+
+  C120D80 being dumped.
+
+  C150D78 being dumped.
+
+  C118D78 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  t74 being dumped.
+
+  fl_080_120 being dumped.
+
+  th033 being dumped.
+
+  th028 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  qfn32-19p7-th being dumped.
+
+  tvout being dumped.
+
+  sdcard being dumped.
+
+  sdwifi being dumped.
+
+  capsop being dumped.
+
+  miniusb_ant being dumped.
+
+  ledir-irm3638 being dumped.
+
+  pushsw being dumped.
+
+  sot-23-6 being dumped.
+
+  db9ra_m being dumped.
+
+  vr3_7x7 being dumped.
+
+  sot-23-q being dumped.
+
+  sip4-fa2 being dumped.
+
+  sip6-fa2 being dumped.
+
+  h1 being dumped.
+
+  sip8-fa2 being dumped.
+
+  speaker being dumped.
+
+  hr911105a being dumped.
+
+  osc2pr-1 being dumped.
+
+  lqfp48fa being dumped.
+
+  earjack5 being dumped.
+
+  sip10x2s being dumped.
+
+  led being dumped.
+
+  qfn36-19p7 being dumped.
+
+  c1210 being dumped.
+
+  0603a being dumped.
+
+  mic2 being dumped.
+
+  c0603 being dumped.
+
+  d1206 being dumped.
+
+  c3216 being dumped.
+
+  tiny6410_2 being dumped.
+
+  c0805 being dumped.
+
+  sw35 being dumped.
+
+  smd4 being dumped.
+
+  0603r being dumped.
+
+  r0603 being dumped.
+
+  dp3-5 being dumped.
+
+  pqfp32-19p7 being dumped.
+
+  sop8 being dumped.
+
+  smd40-0_5fa being dumped.
+
+  scon being dumped.
+
+  sop16 being dumped.
+
+  sot23 being dumped.
+
+  dc023b being dumped.
+
+  to-252 being dumped.
+
+  bat600 being dumped.
+
+  sip2s being dumped.
+
+  sip3s being dumped.
+
+  con4-b being dumped.
+
+  usb-a2 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               84
+Number of package symbols dumped:         50
+Number of flash symbols dumped:            4
+
+Total number of symbols dumped:           54
+*****************************************************
+

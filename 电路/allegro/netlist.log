@@ -1,0 +1,14 @@
+{ Using PSTWRITER 16.6.0 d001Jan-16-2016 at 12:50:00 }
+
+#1 WARNING(ORCAP-36006): Part Name "CONNECTOR DB9_1_DB9RA_M_BOXCONN_DB9" is renamed to "CONNECTOR DB9_1_DB9RA_M_BOXCONN".
+#2 WARNING(ORCAP-36006): Part Name "NUC122LC1AN_NUC122LQFP48_NUC122LC1AN" is renamed to "NUC122LC1AN_NUC122LQFP48_NUC122".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\allegro/pstchip.dat
+
+Loading... D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\allegro/pstchip.dat
+
+Loading... D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\allegro/pstxprt.dat
+
+Loading... D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\allegro/pstxnet.dat
+packaging the design view...

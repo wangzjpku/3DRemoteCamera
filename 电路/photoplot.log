@@ -1,0 +1,401 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : remotepanasonicDB9-rout-V3-0.brd              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Jan 17 09:42:51 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < drill >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerberdrill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                20.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-1791.34 -1102.36)
+           ... using undefined line width of 20.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+
+     Gerberdrill created with warnings
+
+
+================================================================
+     PROCESSING FILM < top-layer1 >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbertop-layer1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 2.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05400                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.11800                                  DARK 
+  CIRCLE     0.15354                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.03600                     0.000 NO     DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05400                     0.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.05000       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.05906       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.01100       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.07500     x 0.02400       0.000 NO     DARK 
+  OBLONG     0.07874     x 0.16535      90.000 NO     DARK 
+  OBLONG     0.16535     x 0.07874      90.000 NO     DARK 
+  PAD SHAPE  SRX10_70Y10_46R0_10         0.000 NO     DARK 
+  PAD SHAPE  SRX1_46Y3_50R0_10           0.000 NO     DARK 
+
+     Gerbertop-layer1 created with warnings
+
+
+================================================================
+     PROCESSING FILM < smdtop >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbersmdtop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  SQUARE     0.03600                     0.000 NO     DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.05000       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.05906       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.01100       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.07700     x 0.02600       0.000 NO     DARK 
+  OBLONG     0.07874     x 0.16535      90.000 NO     DARK 
+  OBLONG     0.16535     x 0.07874      90.000 NO     DARK 
+  PAD SHAPE  SRX10_70Y10_46R0_10         0.000 NO     DARK 
+  PAD SHAPE  SRX1_46Y3_50R0_10           0.000 NO     DARK 
+
+     Gerbersmdtop created.
+
+
+================================================================
+     PROCESSING FILM < smdbtm >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbersmdbtm.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.05000       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.07874     x 0.16535      90.000 NO     DARK 
+  OBLONG     0.16535     x 0.07874      90.000 NO     DARK 
+
+     Gerbersmdbtm created.
+
+
+================================================================
+     PROCESSING FILM < silktop >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbersilktop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-1671.00 -1011.00)
+           ... using undefined line width of 6.00
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01181                                  DARK 
+  CIRCLE     0.02360                                  DARK 
+
+     Gerbersilktop created with warnings
+
+
+================================================================
+     PROCESSING FILM < silkbtm >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbersilkbtm.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     Gerbersilkbtm created.
+
+
+================================================================
+     PROCESSING FILM < masktop >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbermasktop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05400                                  DARK 
+  CIRCLE     0.05800                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+  SQUARE     0.03600                     0.000 NO     DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.03600     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.05000       0.000 NO     DARK 
+  OBLONG     0.01100     x 0.05906       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.01100       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.07874     x 0.16535      90.000 NO     DARK 
+  OBLONG     0.07900     x 0.02800       0.000 NO     DARK 
+  OBLONG     0.16535     x 0.07874      90.000 NO     DARK 
+  PAD SHAPE  SRX10_80Y10_56R0_10         0.000 NO     DARK 
+  PAD SHAPE  SRX1_56Y3_60R0_10           0.000 NO     DARK 
+
+     Gerbermasktop created.
+
+
+================================================================
+     PROCESSING FILM < maskbtm >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerbermaskbtm.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05400                                  DARK 
+  CIRCLE     0.05800                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.05000       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.07874     x 0.16535      90.000 NO     DARK 
+  OBLONG     0.16535     x 0.07874      90.000 NO     DARK 
+
+     Gerbermaskbtm created.
+
+
+================================================================
+     PROCESSING FILM < buttom-layer2 >
+     TO FILE < D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/Gerberbuttom-layer2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                8.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05400                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.11800                                  DARK 
+  CIRCLE     0.15354                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  SQUARE     0.05000                     0.000 NO     DARK 
+  SQUARE     0.05400                     0.000 NO     DARK 
+  SQUARE     0.05906                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.05000       0.000 NO     DARK 
+  OBLONG     0.05906     x 0.07874       0.000 NO     DARK 
+  OBLONG     0.07874     x 0.16535      90.000 NO     DARK 
+  OBLONG     0.16535     x 0.07874      90.000 NO     DARK 
+
+     Gerberbuttom-layer2 created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        Gerberdrill created with warnings
+        Gerbertop-layer1 created with warnings
+        Gerbersmdtop created.
+        Gerbersmdbtm created.
+        Gerbersilktop created with warnings
+        Gerbersilkbtm created.
+        Gerbermasktop created.
+        Gerbermaskbtm created.
+        Gerberbuttom-layer2 created.
+
+ ARTWORK finished

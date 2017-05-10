@@ -1,0 +1,131 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : PCB-TinySDK2-1148.brd                         )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Dec 10 20:44:57 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/dz_dual_ca_kkj_sot23_mmbz6v8al.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/jumper_sip2s_jumper.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/irm3638_ledir-irm3638_irm3638.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con8_sip8-fa2_con8.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/tvp5150_pqfp32-19p7_tvp5150.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/wm8960gefl_0_qfn32-19p7-th_wm89.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/av_0_tvout_rca.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_0603r_10k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con20a_sip10x2s_con20a.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con3_sip3s_con3.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/usb_ab_2_miniusb_ant_usbotg.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/battery_0_bat600_battery.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/connectordb9_0_db9ra_m_boxconn.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/connectordb9_1_db9ra_m_boxconn.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/j1x4_0_smd4_j1x4_20ph.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/header10x2_0_scon_header10x2.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/header10x2_1_sdwifi_header10x.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/header20x2_3_smd40-0_5fa_heade.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con3_0_dc023b_dc_jack.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con3_1_tvout_con3.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con3_2_dp3-5_con3.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/tinycore_tiny6410_2_tiny6410.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/usbport_0_usb-a2_usba.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/crystal_osc2pr-1_24mhz.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/key4_pushsw_value.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/speaker_speaker_speaker.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_0603a_104.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capacitor_c3216_47uf10v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_c0603_104.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/03cap_c3216_10uf16v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_104.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_15pf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_01uf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0805_10u.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_100pf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_1uf16v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cappol_c3216_10u16v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_220pf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_1uf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_0402_c0603_100n.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_tan_c3216_10uf16v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_tan_c1210_33uf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_c0603_330pf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_c0603_22pf.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap_c0805_105.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_102.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/c_c0603_104_110400100.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capnp_c0603_104nc.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/c_c0603_47uf_110400100.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/capacitor_capsop_47uf10v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap0402.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cap0603.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/sd_0_sdcard_sdmmccard.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/phonejackstereosw_earjack5_ph.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con4_con4-b_con4.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con4_sip4-fa2_con4.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con6_sip6-fa2_con6.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/diode_d1206_1n4148.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/fb_r0603_0r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/fb_r0603_bead.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con1_h1_con1.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/inductor_r0603_10mh.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/inductor_r0603_33uh.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/hr911105a_hr911105a_hr911105a.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/led_led_red.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/mic_mic2_mic.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/npn_sot-23-q_9014.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/npn_sot-23-q_mmbt3904l.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_r0603_0r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_0603r_10k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_0rnc.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_0r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_10k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_15k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res1_0603r_100k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_22r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_100k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res0603.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_1m.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_r0603_680r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_r0603_1k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_r0603_10k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_r0603_39k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_330r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_51r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res1_0603r_330.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_47k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_r0603_4k7.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_200r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_100rnc.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_22k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res1_0603r_15k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_100r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_47knc.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_0603r_47k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_0603r_50r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_0603r_150r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res_0603r_0r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res2_r0603_nc.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/01res_r0603_0r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res2_r0603_75r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res2_r0603_10k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/res2_r0603_0r.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/r_r0603_68k1.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/con5_sw35_value.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/cappol_c3216_100u63v.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/max3232cse_sop16_max3232cse.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/usb2514bqfn36.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/max3485_sop8_max3485.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/ams1084cm-33_to-252_ams1086cm-.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/dm9000ae_0_lqfp48fa_dm9000aep.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/at24lc04_sop8_at24lc04.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/njm2561_sot-23-6_njm2561f1.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/resistortapped_vr3_7x7_10k.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/zta_osc2pr-1_25mhz.txt': written successfully.
+Device file 'D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/all-lib/crystal_osc2pr-1_143mhz.txt': written successfully.
+
+  Created device files: 116
+

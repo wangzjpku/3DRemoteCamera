@@ -1,0 +1,289 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Sat Jan 16 13:36:57 2016
+# 
+# Allegro PCB Router v16-6-112 made 2012/09/12 at 23:00:45
+# Running on: wzj-pc, OS Version: WindowsNT 6.1.7601, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn
+# Batch File Name: pasde.do
+# Did File Name: D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/specctra.did
+# Current time = Sat Jan 16 13:36:58 2016
+# PCB D:/6-PCN-Project/8-摄像机云台转换控制系统/电路
+# Master Unit set up as: MIL 1000
+# PCB Limits xlo=-1970.4700 ylo=-1322.8200 xhi=1970.4700 yhi=1212.5900
+# Total 55 Images Consolidated.
+# Via VIA28C16 z=1, 2 xlo=-14.0000 ylo=-14.0000 xhi= 14.0000 yhi= 14.0000
+# Via VIA40 z=1, 2 xlo=-20.0000 ylo=-20.0000 xhi= 20.0000 yhi= 20.0000
+# 
+#    VIA      TOP    BOTTOM 
+# 
+#    TOP  --------  VIA28C16
+# BOTTOM  VIA28C16  --------
+# 
+# Wires Processed 0, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 68, Images Processed 79, Padstacks Processed 26
+# Nets Processed 61, Net Terminals 221
+# PCB Area=7898806.250  EIC=18  Area/EIC=438822.569  SMDs=61
+# Total Pin Count: 254
+# Signal Connections Created 160
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 7.5000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 7.5000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Wiring Statistics ----------------- D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn
+# Nets 61 Connections 160 Unroutes 160
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 107650.7900 Horizontal 60195.8420 Vertical 47454.9480
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 107650.7900 Horizontal 59412.8900 Vertical 48237.9000
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/ADMINI~1/AppData/Local/Temp/#Taaaaar03108.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+route 25 1
+# Current time = Sat Jan 16 13:37:03 2016
+# 
+#    VIA      TOP    BOTTOM 
+# 
+#    TOP  --------  VIA28C16
+# BOTTOM  VIA28C16  --------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# 
+# Wiring Statistics ----------------- D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn
+# Nets 61 Connections 160 Unroutes 160
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 107650.7900 Horizontal 60195.8420 Vertical 47454.9480
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 107650.7900 Horizontal 59412.8900 Vertical 48237.9000
+# Start Route Pass 1 of 25
+# Routing 160 wires.
+# 26 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 297 (Cross: 293, Clear: 4, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 160 Successes 160 Failures 0 Vias 28
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 240 wires.
+# Total Conflicts: 124 (Cross: 117, Clear: 7, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 212 Successes 212 Failures 0 Vias 60
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# Conflict Reduction  0.5825
+# End Pass 2 of 25
+# Start Route Pass 3 of 25
+# Routing 304 wires.
+# Total Conflicts: 54 (Cross: 53, Clear: 1, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 217 Successes 217 Failures 0 Vias 66
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Conflict Reduction  0.5645
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 294 wires.
+# Total Conflicts: 26 (Cross: 26, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 224 Successes 224 Failures 0 Vias 77
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# Conflict Reduction  0.5185
+# End Pass 4 of 25
+# 29 bend points have been removed.
+# 0 bend points have been removed.
+# 9 bend points have been removed.
+# Start Route Pass 5 of 25
+# Routing 44 wires.
+# Total Conflicts: 1 (Cross: 1, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 42 Successes 42 Failures 0 Vias 100
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 25
+# Start Route Pass 6 of 25
+# Routing 5 wires.
+# Total Conflicts: 5 (Cross: 0, Clear: 5, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 5 Successes 5 Failures 0 Vias 100
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 6 of 25
+# Start Route Pass 7 of 25
+# Routing 4 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 4 Successes 4 Failures 0 Vias 100
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 7 of 25
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:05
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|   293|     4|   0|    0|   28|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|   117|     7|   0|    0|   60|    0|   0| 58|  0:00:01|  0:00:01|
+# Route    |  3|    53|     1|   0|    0|   66|    0|   0| 56|  0:00:00|  0:00:01|
+# Route    |  4|    26|     0|   0|    0|   77|    0|   0| 51|  0:00:01|  0:00:02|
+# Route    |  5|     1|     0|   0|    0|  100|    0|   0| 96|  0:00:00|  0:00:02|
+# Route    |  6|     0|     5|   0|    0|  100|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  7|     0|     0|   0|    0|  100|    0|   0|100|  0:00:00|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn
+# Nets 61 Connections 160 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 73, at vias 23 Total Vias 100
+# Percent Connected  100.00
+# Manhattan Length 112250.4800 Horizontal 62829.7940 Vertical 49420.6860
+# Routed Length 131280.0817 Horizontal 70636.2700 Vertical 60658.7200
+# Ratio Actual / Manhattan   1.1695
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+clean 2
+# Current time = Sat Jan 16 13:37:08 2016
+# 
+#    VIA      TOP    BOTTOM 
+# 
+#    TOP  --------  VIA28C16
+# BOTTOM  VIA28C16  --------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# 
+# Wiring Statistics ----------------- D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn
+# Nets 61 Connections 160 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 73, at vias 23 Total Vias 100
+# Percent Connected  100.00
+# Manhattan Length 112250.4800 Horizontal 62829.7940 Vertical 49420.6860
+# Routed Length 131280.0817 Horizontal 70636.2700 Vertical 60658.7200
+# Ratio Actual / Manhattan   1.1695
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 310 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 226 Successes 226 Failures 0 Vias 89
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 321 wires.
+# 5 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 232 Successes 232 Failures 0 Vias 88
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 2 of 2
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 8.0000, Clearance= 8.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|   293|     4|   0|    0|   28|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|   117|     7|   0|    0|   60|    0|   0| 58|  0:00:01|  0:00:01|
+# Route    |  3|    53|     1|   0|    0|   66|    0|   0| 56|  0:00:00|  0:00:01|
+# Route    |  4|    26|     0|   0|    0|   77|    0|   0| 51|  0:00:01|  0:00:02|
+# Route    |  5|     1|     0|   0|    0|  100|    0|   0| 96|  0:00:00|  0:00:02|
+# Route    |  6|     0|     5|   0|    0|  100|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |  7|     0|     0|   0|    0|  100|    0|   0|100|  0:00:00|  0:00:02|
+# Clean    |  8|     0|     0|   0|    0|   89|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |  9|     0|     0|   0|    0|   88|    0|   0|   |  0:00:01|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- D:/6-PCN-Project/8-摄像机云台转换控制系统/电路\remotepanasonicDB9-rout-V3-0.dsn
+# Nets 61 Connections 160 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 75, at vias 23 Total Vias 88
+# Percent Connected  100.00
+# Manhattan Length 111800.9500 Horizontal 62627.7540 Vertical 49173.1960
+# Routed Length 126153.5000 Horizontal 68572.7400 Vertical 57580.7600
+# Ratio Actual / Manhattan   1.1284
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+write routes (changed_only) (reset_changed) C:/Users/ADMINI~1/AppData/Local/Temp/#Taaaaas03108.tmp
+# Routing Written to File C:/Users/ADMINI~1/AppData/Local/Temp/#Taaaaas03108.tmp
+quit

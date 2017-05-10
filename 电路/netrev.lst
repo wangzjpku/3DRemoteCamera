@@ -1,0 +1,91 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : remotepanasonicDB9-rout-V3-0.brd              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jan 16 13:31:46 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/remotepanasonicDB9-rout-V3-0.brd';
+NEW_BOARD_NAME 'D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/remotepanasonicDB9-rout-V3-0.brd';
+
+CmdLine: netrev -$ -i D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro -y 1 D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/#Taaaaao03108.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro/pstchip.dat 
+   Finished reading D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro/pstchip.dat (00:00:00.06)
+Starting to read D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro/pstxprt.dat 
+   Finished reading D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro/pstxnet.dat 
+   Finished reading D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           ./all_lib/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           d:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           ./all_lib/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 16 13:31:46 2016
+   DESIGN NAME : 'REMOTEFORPANASONIC'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:55
+elapsed time  0:00:01
+

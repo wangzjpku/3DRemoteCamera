@@ -1,0 +1,19 @@
+\t (00:22:49) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:22:49)     Journal start - Sun Dec 27 09:44:28 2015
+\t (00:22:49)         Host=WZJ-PC User=Administrator Pid=7612 CPUs=4
+\t (00:22:49) 
+\d (00:22:49) Database opened: D:/6-PCN-Project/8-ÉãÏñ»úÔÆÌ¨×ª»»¿ØÖÆÏµÍ³/µçÂ·/all_lib/sot23_b.dra
+\i (00:22:49) generaledit 
+\i (00:22:53) setwindow form.vf_vis
+\i (00:22:53) FORM vf_vis 1 all_colorvisible NO 
+\i (00:22:55) FORM vf_vis 2 all_colorvisible NO 
+\i (00:23:25) setwindow pcb
+\i (00:23:25) opencd 'D:/6-PCN-Project/8-ÉãÏ`ñ»úÔÆÌ¨×ª»»¿ØÖÆÏµÍ³/µçÂ·/remotepanasonicDB9-rout-V1.1.brd' 
+\t (00:23:25) Opening existing design...
+\i (00:23:26) trapsize 816
+\i (00:23:26) trapsize 787
+\i (00:23:26) trapsize 816
+\i (00:23:26) trapsize 828
+\i (00:23:26) trapsize 641
+\i (00:23:26) trapsize 641
+\t (00:23:26)     Journal end - Sun Dec 27 09:45:05 2015

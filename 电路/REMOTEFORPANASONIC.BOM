@@ -1,0 +1,42 @@
+  Revised: Saturday, January 02, 2016
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials        January 2,2016      0:11:51	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	COM1,COM2	BOXCONN_DB9
+2	4	C1,C2,C6,C7	20p
+3	3	C3,C4,C8	10u
+4	1	C5	22U
+5	3	C9,C10,C11	0.1u
+6	1	IED1	<Value>
+7	5	LED_3.1,LED_3.2,LED_3.3,	RED
+		LED_3.4,LED_3.5
+8	1	L1	IND_MOLDED
+9	8	Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8	2N7002LT1
+10	1	R1	33
+11	1	R2	1M
+12	7	R3,R8,R11,R14,R18,R29,	10k
+		R30
+13	1	R4	10M
+14	4	R5,R6,R32,R33	22
+15	6	R7,R13,R17,R25,R26,R28	4.7k
+16	4	R9,R10,R27,R31	100
+17	5	R12,R16,R36,R37,R38	330
+18	2	R15,R19	15k
+19	2	R34,R35	0
+20	1	U1	DC205A
+21	1	U2	AMS1086CM-3.3
+22	1	U3	NUC122LC1AN
+23	2	U5,U8	MAX488
+24	1	U10	RJ45
+25	1	Y1	12M
+26	1	Y2	32k

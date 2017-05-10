@@ -1,0 +1,38 @@
+\t (00:01:26) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:01:26)     Journal start - Tue Mar 01 12:02:33 2016
+\t (00:01:26)         Host=WZJ-PC User=Administrator Pid=3916 CPUs=4
+\t (00:01:26) 
+\d (00:01:26) Database opened: D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/remotepanasonicDB9-rout-V3-0.brd
+\i (00:01:27) generaledit 
+\i (00:01:32) zoom points 
+\t (00:01:32) Pick 1st corner of the new window.
+\i (00:01:34) drag_start 400.10 -64.77
+\i (00:01:35) drag_stop 839.86 -626.25
+\i (00:01:35) trapsize 513
+\i (00:01:35) generaledit 
+\i (00:20:20) xhilite 
+\i (00:20:20) xNet Gnd 
+\i (00:20:20) xNet 422Ao 
+\i (00:20:20) xNet 422Bo 
+\i (00:20:20) xNet 422Yo 
+\i (00:20:20) xNet 422Zo 
+\i (00:20:20) xrefdes R35 
+\i (00:20:20) xNet N5287624 
+\i (00:20:20) xNet Vcc 
+\i (00:20:20) xrefdes Led_3.3 
+\i (00:20:20) xrefdes R36 
+\i (00:20:20) xNet Pc9 
+\i (00:20:20) xrefdes Led_3.4 
+\i (00:20:20) xrefdes R37 
+\i (00:20:20) xNet Pc10 
+\i (00:20:20) xrefdes Com1 
+\i (00:20:20) xname_flush 
+\i (00:20:20) trapsize 2015
+\t (00:20:20) 9 Net(s) highlighted.
+\t (00:20:20) 6 Component(s) highlighted.
+\i (00:20:20) done 
+\i (00:20:20) generaledit 
+\i (00:20:22) exit 
+\e (00:20:22) Do you want to save the changes you made to remotepanasonicDB9-rout-V3-0.brd?
+\i (00:20:23) fillin no 
+\t (00:20:24)     Journal end - Tue Mar 01 12:21:31 2016

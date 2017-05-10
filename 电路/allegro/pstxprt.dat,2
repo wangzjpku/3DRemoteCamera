@@ -1,0 +1,660 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jan-11-2016 at 09:39:32 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='REMOTEFORPANASONIC';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR NON-POL_0805_20P':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217222@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217222@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217222@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR NON-POL_0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5218407@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5218407@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5218407@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR NON-POL_0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285574@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285574@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285574@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR NON-POL_0805_20P':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS118@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins118@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins118@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_0805_10U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217463@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217463@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217463@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0805_10U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5272238@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5272238@discrete.\cap np.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5272238@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_0805_22U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5272254@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5272254@discrete.\cap np.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5272254@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR NON-POL_0805_20P':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217793@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217793@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217793@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_0805_20P':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217745@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217745@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217745@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR NON-POL_0805_10U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5218251@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5218251@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5218251@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR NON-POL_0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5273613@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5273613@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5273613@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ COM1 'CONNECTOR DB9_1_DB9RA_M_BOXCONN':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5292984@REMOTEFORPANASONIC.CONNECTOR DB9_1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5292984@remoteforpanasonic.\connector db9_1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5292984@remoteforpanasonic.\connector db9_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ COM2 'CONNECTOR DB9_1_DB9RA_M_BOXCONN':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5293040@REMOTEFORPANASONIC.CONNECTOR DB9_1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5293040@remoteforpanasonic.\connector db9_1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5293040@remoteforpanasonic.\connector db9_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IED1 'CON5_HDR1X5_<VALUE>':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271848@ORCADLIB.CON5.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271848@orcadlib.\con5.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271848@orcadlib.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'R_0805_R0':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217590@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217590@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217590@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED_3.1 'LED_0805_RED':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5219163@MY_GLASS.LED.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5219163@my_glass.\led.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5219163@my_glass.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED_3.2 'LED_0805_RED':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5219111@MY_GLASS.LED.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5219111@my_glass.\led.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5219111@my_glass.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED_3.3 'LED_0805_RED':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5287857@MY_GLASS.LED.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5287857@my_glass.\led.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5287857@my_glass.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED_3.4 'LED_0805_RED':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5287951@MY_GLASS.LED.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5287951@my_glass.\led.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5287951@my_glass.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED_3.5 'LED_0805_RED':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5288046@MY_GLASS.LED.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5288046@my_glass.\led.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5288046@my_glass.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN_3_SOT23_B_2N7002LT1':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271512@NUC122_PADEL_BLUETOOTH.NPN_3.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271512@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271512@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN_3_SOT23_B_2N7002LT1':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271526@NUC122_PADEL_BLUETOOTH.NPN_3.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271526@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271526@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'NPN_3_SOT23_B_2N7002LT1':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271540@NUC122_PADEL_BLUETOOTH.NPN_3.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271540@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271540@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'NPN_3_SOT23_B_2N7002LT1':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271694@NUC122_PADEL_BLUETOOTH.NPN_3.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271694@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271694@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'NPN_3_SOT23_B_2N7002LT1':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5281237@NUC122_PADEL_BLUETOOTH.NPN_3.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5281237@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5281237@nuc122_padel_bluetooth.\npn_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0805_33':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS55@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins55@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins55@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0805_100':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5273509@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5273509@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5273509@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0805_10K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5273165@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5273165@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5273165@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES1_0805_330':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5219179@ORCADLIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5219179@orcadlib.\res1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5219179@orcadlib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271610@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271610@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271610@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_0805_10K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271626@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271626@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271626@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0805_15K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5271642@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5271642@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5271642@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES1_0805_330':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5219123@ORCADLIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5219123@orcadlib.\res1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5219123@orcadlib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0805_1M':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS533@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins533@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins533@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5284807@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5284807@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5284807@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285302@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285302@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285302@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_0805_100':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285334@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285334@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285334@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285386@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285386@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285386@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_0805_10K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285450@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285450@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285450@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0805_10K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217364@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217364@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217364@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_0805_10K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285466@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285466@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285466@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_0805_100':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285558@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285558@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285558@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_0805_22':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5286113@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5286113@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5286113@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_0805_22':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5286129@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5286129@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5286129@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_0805_0':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5287372@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5287372@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5287372@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_0805_0':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5287606@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5287606@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5287606@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RES1_0805_330':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5287877@ORCADLIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5287877@orcadlib.\res1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5287877@orcadlib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RES1_0805_330':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5287971@ORCADLIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5287971@orcadlib.\res1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5287971@orcadlib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RES1_0805_330':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5288066@ORCADLIB.RES1.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5288066@orcadlib.\res1.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5288066@orcadlib.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0805_10M':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217761@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217761@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217761@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0805_22':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5218124@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5218124@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5218124@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0805_22':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5218150@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5218150@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5218150@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5284017@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5284017@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5284017@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_0805_10K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5273194@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5273194@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5273194@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0805_100':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5284269@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5284269@discrete.\r.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5284269@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'DC205A_DC205_DC205A':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5272346@MY_GLASS.DC205A.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5272346@my_glass.\dc205a.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5272346@my_glass.\dc205a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'RJ45_HR911105A_RJ45':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5286274@LIBRARY1.RJ45.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5286274@library1.\rj45.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5286274@library1.\rj45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'X9C103_SOP8_X9C103':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5306905@LIBRARY1.X9C103.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5306905@library1.\x9c103.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5306905@library1.\x9c103.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'X9C103_SOP8_X9C103':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5306946@LIBRARY1.X9C103.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5306946@library1.\x9c103.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5306946@library1.\x9c103.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'AMS1117_TO262_AMS1086CM-3.3':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5272278@MYSCHLIB.AMS1117.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5272278@myschlib.\ams1117.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5272278@myschlib.\ams1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'NUC122LC1AN_NUC122LQFP48_NUC122':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS290@LIBRARY1.NUC122LC1AN.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins290@library1.\nuc122lc1an.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins290@library1.\nuc122lc1an.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MAX485_SOP8_MAX3488':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5273051@LIBRARY1.MAX485.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5273051@library1.\max485.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5273051@library1.\max485.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MAX485_SOP8_MAX3488':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5285418@LIBRARY1.MAX485.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5285418@library1.\max485.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page2_ins5285418@library1.\max485.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XALTDIP2_12M':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217196@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217196@discrete.\crystal.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217196@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL_XTAL-3_4MM-2P_32K':;
+
+SECTION_NUMBER 1
+ '@REMOTEFORPANASONIC.SCHEMATIC1(SCH_1):INS5217777@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@remoteforpanasonic.schematic1(sch_1):ins5217777@discrete.\crystal.normal\(chips)',
+ P_PATH='@remoteforpanasonic.schematic1(sch_1):page1_ins5217777@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

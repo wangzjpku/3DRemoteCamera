@@ -1,0 +1,60 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\nutiny-sdk-nuc122.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\nutiny-sdk-nuc122.dsn")
+      (Path "Design Resources" ".\nutiny-sdk-nuc122.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\nutiny-sdk-nuc122.dsn" "SCHEMATIC1"
+         "PAGE1_DEMO_CIRCUIT"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 261"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1158 50 349")
+        (Scroll "0 280")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\LAYOUTPCB\PIANO_DATA\ARM资料\NUTINY-SDK-NUC122\NUTINY-SDK-NUC122\NUTINY-SDK-NUC122.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE0_PLACEMENT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1183 75 374")
+        (Scroll "383 142")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\LAYOUTPCB\PIANO_DATA\ARM资料\NUTINY-SDK-NUC122\NUTINY-SDK-NUC122\NUTINY-SDK-NUC122.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1_DEMO_CIRCUIT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1208 100 399")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\LAYOUTPCB\PIANO_DATA\ARM资料\NUTINY-SDK-NUC122\NUTINY-SDK-NUC122\NUTINY-SDK-NUC122.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2_ICE_CIRCUIT")))
+  (MPSSessionName "Administrator"))

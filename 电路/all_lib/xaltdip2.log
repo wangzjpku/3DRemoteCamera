@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : xaltdip2.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jan 02 00:40:06 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/all_lib
+    Name      = xaltdip2.psm
+    User      = Administrator
+    Machine   = WZJ-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

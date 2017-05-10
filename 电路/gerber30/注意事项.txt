@@ -1,0 +1,6 @@
+ncroutebits_auto.txt 文件描述了椭圆孔的刀编号 是35
+注意不要弄错，尤其是这里的大小。
+
+用Cam350打开时候，remotepanasonicDB9-rout-V30文件的 小数精度选择5位。
+
+工艺是标准工艺就可以了。

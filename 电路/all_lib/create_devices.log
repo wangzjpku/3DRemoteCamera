@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : bluttooth.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Sep 06 21:29:40 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/npn_3_sot23_b_2n7002lt1.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/capnp_0805_20p.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/capnp_0805_22u.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/capnp_0805_10u.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/capnp_0805_01u.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/con5_hdr1x5_value.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/swpushbutton_0_key_0007_swpus.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_ind_molded.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/led_0805_red.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_33.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_10k.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_15k.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/res1_0805_330.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_1m.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_10m.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_22.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/r_0805_47k.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/phonejackstereosw_audio_3_pho.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/con4_con4-b_con4.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/nuc122lqfp48pin_nuc122lqfp48_nu.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/dc205a_dc205_dc205a.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/hc_06_hc-6-bluetooth_hc_06.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/ams1117_to262_ams1086cm-33.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/crystal_xaltdip2_12m.txt': written successfully.
+Device file 'D:/6-PCN-Project/3-术野摄像机脚踏板控制/bluetooth-version/pedal_control_bluetooth/testlib/crystal_xtal-3_4mm-2p_32k.txt': written successfully.
+
+  Created device files: 25
+

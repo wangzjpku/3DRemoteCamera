@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Technology File READ                                             )
+(                                                                     )
+(    Drawing          : remotepanasonicDB9-rout-V3-0.brd              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Jan 17 09:58:42 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+techfile name: D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/2tiny_techfile.tcf
+  layout name: D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/remotepanasonicDB9-rout-V3-0.brd
+
+Technology Difference Report
+============================
+
+Design        : remotepanasonicDB9-rout-V3-0
+Input File    : D:/LayoutPCB/tiny210/Schematic-PCB/TinySDK2-1148/2tiny_techfile.tcf
+Update Mode   : Merge (no deletions will be done)
+Constraint Information : CrossSection, Electrical, Physical, Spacing, Same Net Spacing, Properties
+Notes:
+------
+  - Attribute updates are reported as additions, deletions, or changes.
+  - Association updates are reported as additions or deletions. Associations
+    are the members of a MatchGroup, Constraint Set references, the PinPairs
+    of a Net, the members of a Differential Pair, etc.
+  - Clearing an object implies that the object does not exist so all attributes
+    and associations for the object will be deleted. These attribute and association
+    deletions are not included in the Summary totals. Objects are Constraint Sets,
+    Buses, XNets, Nets, etc.
+
+
+---------------------------------------------------------
+Design: remotepanasonicDB9-rout-V3-0
+	Changing: DRAWING_EXTENTS to "25748.03,21811.02" from "22000.00,17000.00"
+	Changing: DRAWING_LOWER_LEFT to "-2000.00,-2000.00" from "-3000.00,-3000.00"
+---------------------------------------------------------
+
+Summary:
+
+Constraint changes found: 0 additions, 0 deletions, 2 changes.
+
+No association changes done.
+
+
+
+

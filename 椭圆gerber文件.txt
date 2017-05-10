@@ -1,0 +1,90 @@
+说是要加ncroutebits.txt
+
+格式如下：
+
+0.032 T01
+0.060 T02
+0.120 T03
+
+我猜含义就是铣刀T01 的直径是0.032
+
+如果不加，就会出
+
+ WARNING: Can't find NC Route bit file (ncroutebits.txt)!
+          Using T01 to route ALL route cuts.
+但是这里也是可以通过在cam350中修改来编辑铣刀的大小的。我试了一下这种方法，后面好像还要自己添加铣刀走的路径的信息，
+
+我觉得这个信息是在做异形焊盘的时候就做好了的，（要是自己想再板子上开个洞，是不是就要自己画了，或者也许可以使用outline来画）；
+
+allegro生成的.rou文件如下
+
+ 
+
+[plain] view plaincopy
+M48  
+INCH  
+;EXTENTS: -0.500  -0.500  4.500   3.500     
+;LEADER: 12   
+;HEADER:   
+;CODE  : ASCII   
+;FILE  : *****.brd  
+%  
+G90  
+F1  
+M16  
+T01  
+M16  
+G00X00005000Y00255000  
+M15  
+G01X00385000Y00255000  
+G01X00385000Y00005000  
+G01X00005000Y00005000  
+G01X00005000Y00255000  
+M16  
+T01  
+M16  
+G00X00016800Y00211000  
+G41  
+M15  
+G03X00020800Y00211000A00002000  
+G01X00020800Y00219000  
+G03X00016800Y00219000A00002000  
+G01X00016800Y00211000  
+M16  
+G00X00042000Y00211000  
+G41  
+M15  
+G03X00046000Y00211000A00002000  
+G01X00046000Y00219000  
+G03X00042000Y00219000A00002000  
+G01X00042000Y00211000  
+M16  
+G00X00027400Y00198500  
+G41  
+M15  
+G03X00027400Y00194500A00002000  
+G01X00035400Y00194500  
+G03X00035400Y00198500A00002000  
+G01X00027400Y00198500  
+M16  
+G40  
+M30  
+下面是我导入*.rou时候的提示，
+
+Warning - No header % found, load stopped
+Info - Layer 1: e:\stm32f107\hardware\proj_crsc\tietasch\crscpcb0221v1\output\crscpcb0226v1_6film.rou, Reading...
+Warning - Tool Numbers with no size: 1 System has assigned a default size of 93.0 mil to all tools. Correct this information using NC Editor Tool Table
+
+
+ 
+
+首先看第一条“Warning - No header % found, load stopped”，看我前面转载的博客，发现有人说要将*.rou前面的注释去掉，导入cam350才不会出错，结合警告1，我觉得应该是因为导入的时候需要查找一个“%”做为导入的开始标志，所以就将*.rou中“%”前面的都删去了，再次导入的时候就没有这个warning了。
+
+其次看第二条warning，Tool Numbers with no size ，还记得最前面的ncroutebits.txt吧，其中0.032 T01 前面一个数字就是这个句话中的size，后面的T01我猜想就是Tool Number的缩写吧。
+
+所以这里就是因为我们没有指定铣刀的尺寸。而后面“1 System has assigned a default size of 93.0 mil to all tools. Correct this information using NC Editor Tool Table”就告诉我们怎样指定铣刀的尺寸了，（当然是在cam350中。）
+
+在默认情况下 cam350分配一个铣刀尺寸。他分配的尺寸在第二个warning中也有，就是“93mil”很粗大，所以导入后出出这个样的图
+
+想贴图的不知道怎么发。悲催
+

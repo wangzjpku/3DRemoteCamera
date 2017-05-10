@@ -1,0 +1,159 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : remotepanasonicDB9-rout-V2-0.brd              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jan 02 00:43:34 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Place by text file using: place_txt.txt
+
+ Save as #Taaaabd09692.tmp 
+
+ Refdes C1 is already placed ... skipping
+
+ Refdes C2 is already placed ... skipping
+
+ Refdes C6 is already placed ... skipping
+
+ Refdes C7 is already placed ... skipping
+
+ Refdes C10 is already placed ... skipping
+
+ Refdes C11 is already placed ... skipping
+
+ Refdes C9 is already placed ... skipping
+
+ Refdes C3 is already placed ... skipping
+
+ Refdes C8 is already placed ... skipping
+
+ Refdes C4 is already placed ... skipping
+
+ Refdes C5 is already placed ... skipping
+
+ Refdes COM1 is already placed ... skipping
+
+ Refdes COM2 is already placed ... skipping
+
+ Refdes IED1 is already placed ... skipping
+
+ Refdes L1 is already placed ... skipping
+
+ Refdes LED_3.1 is already placed ... skipping
+
+ Refdes LED_3.2 is already placed ... skipping
+
+ Refdes LED_3.3 is already placed ... skipping
+
+ Refdes LED_3.4 is already placed ... skipping
+
+ Refdes LED_3.5 is already placed ... skipping
+
+ Refdes Q1 is already placed ... skipping
+
+ Refdes Q2 is already placed ... skipping
+
+ Refdes Q3 is already placed ... skipping
+
+ Refdes Q4 is already placed ... skipping
+
+ Refdes Q5 is already placed ... skipping
+
+ Refdes Q6 is already placed ... skipping
+
+ Refdes Q7 is already placed ... skipping
+
+ Refdes Q8 is already placed ... skipping
+
+ Refdes R1 is already placed ... skipping
+
+ Refdes R10 is already placed ... skipping
+
+ Refdes R27 is already placed ... skipping
+
+ Refdes R31 is already placed ... skipping
+
+ Refdes R9 is already placed ... skipping
+
+ Refdes R11 is already placed ... skipping
+
+ Refdes R14 is already placed ... skipping
+
+ Refdes R18 is already placed ... skipping
+
+ Refdes R29 is already placed ... skipping
+
+ Refdes R3 is already placed ... skipping
+
+ Refdes R30 is already placed ... skipping
+
+ Refdes R8 is already placed ... skipping
+
+ Refdes R12 is already placed ... skipping
+
+ Refdes R16 is already placed ... skipping
+
+ Refdes R36 is already placed ... skipping
+
+ Refdes R37 is already placed ... skipping
+
+ Refdes R38 is already placed ... skipping
+
+ Refdes R13 is already placed ... skipping
+
+ Refdes R17 is already placed ... skipping
+
+ Refdes R25 is already placed ... skipping
+
+ Refdes R26 is already placed ... skipping
+
+ Refdes R28 is already placed ... skipping
+
+ Refdes R7 is already placed ... skipping
+
+ Refdes R15 is already placed ... skipping
+
+ Refdes R19 is already placed ... skipping
+
+ Refdes R2 is already placed ... skipping
+
+ Refdes R32 is already placed ... skipping
+
+ Refdes R33 is already placed ... skipping
+
+ Refdes R5 is already placed ... skipping
+
+ Refdes R6 is already placed ... skipping
+
+ Refdes R34 is already placed ... skipping
+
+ Refdes R35 is already placed ... skipping
+
+ Refdes R4 is already placed ... skipping
+
+ Refdes U1 is already placed ... skipping
+
+ Refdes U10 is already placed ... skipping
+
+ Refdes U2 is already placed ... skipping
+
+ Refdes U3 is already placed ... skipping
+
+ Refdes U5 is already placed ... skipping
+
+ Refdes U8 is already placed ... skipping
+
+ Refdes Y1 is already placed ... skipping
+
+ Refdes Y2 is already placed ... skipping
+
+ Successfully placed 0 components
+
+ Failed to place 69 components
+
+ 69 Warnings reported

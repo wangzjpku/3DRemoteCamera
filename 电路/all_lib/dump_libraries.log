@@ -1,0 +1,123 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Sep 06 21:29:39 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/6-PCN-Project/3- ı“∞…„œÒª˙Ω≈Ã§∞Âøÿ÷∆/bluetooth-version/pedal_control_bluetooth/bluttooth.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  RX10_70Y10_46R0_10T being dumped.
+
+  VIA28C16 being dumped.
+
+  PAD-35-60 being dumped.
+
+  SMD40_40 being dumped.
+
+  SMD20_17 being dumped.
+
+  VIA45X88 being dumped.
+
+  C5MMD3MM2 being dumped.
+
+  VIA being dumped.
+
+  PAD1 being dumped.
+
+  PAD2 being dumped.
+
+  PAD3 being dumped.
+
+  40X30 being dumped.
+
+  PAD21 being dumped.
+
+  PAD22 being dumped.
+
+  PAD14 being dumped.
+
+  PAD23 being dumped.
+
+  PAD15 being dumped.
+
+  PAD16 being dumped.
+
+  PAD17 being dumped.
+
+  PAD18 being dumped.
+
+  PAD19 being dumped.
+
+  VIA40 being dumped.
+
+  C60D40 being dumped.
+
+  RX1_46Y3_50R0_10T being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  srx10_70y10_46r0_10 being dumped.
+
+  srx10_80y10_56r0_10 being dumped.
+
+  srx1_46y3_50r0_10 being dumped.
+
+  srx1_56y3_60r0_10 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  hdr1x5 being dumped.
+
+  xtal-3_4mm-2p being dumped.
+
+  sot23_b being dumped.
+
+  audio_3 being dumped.
+
+  key_0007 being dumped.
+
+  hc-6-bluetooth being dumped.
+
+  xaltdip2 being dumped.
+
+  0805 being dumped.
+
+  dc205 being dumped.
+
+  to262 being dumped.
+
+  con4-b being dumped.
+
+  nuc122lqfp48 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               24
+Number of package symbols dumped:         12
+Number of shape symbols dumped:            4
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           17
+*****************************************************
+

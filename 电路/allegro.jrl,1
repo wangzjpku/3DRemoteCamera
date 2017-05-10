@@ -1,0 +1,68 @@
+\t (00:00:17) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:17)     Journal start - Tue Feb 23 20:17:23 2016
+\t (00:00:17)         Host=WZJ-PC User=Administrator Pid=3544 CPUs=4
+\t (00:00:17) 
+\t (00:00:19) Opening existing design...
+\d (00:00:20) Database opened: D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/remotepanasonicDB9-rout-V3-0.brd
+\i (00:00:21) trapsize 2418
+\i (00:00:21) trapsize 2346
+\i (00:00:21) trapsize 2430
+\i (00:00:21) trapsize 2466
+\i (00:00:21) trapsize 1963
+\i (00:00:21) trapsize 1963
+\i (00:00:22) generaledit 
+\i (00:00:31) setwindow form.find
+\i (00:00:31) FORM find symbols YES 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 859.49 -590.91
+\i (00:00:35) trapsize 982
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 859.49 -590.90
+\i (00:00:35) trapsize 491
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 859.49 -590.90
+\i (00:00:37) trapsize 982
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 1226.62 -371.01
+\i (00:00:42) trapsize 1963
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 1081.34 -386.72
+\i (00:02:04) trapsize 982
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 1095.08 -386.71
+\i (00:02:04) trapsize 491
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 1100.97 -387.70
+\i (00:02:04) trapsize 245
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 1100.97 -387.70
+\i (00:02:05) trapsize 123
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 1083.31 -378.62
+\i (00:02:06) trapsize 245
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 1083.30 -378.62
+\i (00:02:06) trapsize 491
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 1083.30 -378.62
+\i (00:02:07) trapsize 982
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 1083.31 -378.62
+\i (00:02:07) trapsize 1963
+\i (00:02:09) exit 
+\e (00:02:09) Do you want to save the changes you made to remotepanasonicDB9-rout-V3-0.brd?
+\i (00:02:10) fillin no 
+\t (00:02:11)     Journal end - Tue Feb 23 20:19:17 2016

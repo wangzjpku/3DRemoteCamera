@@ -1,0 +1,108 @@
+Sat Jan 16 13:41:52 2016				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sat Jan 16 13:41:52 2016
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : remotepanasonicDB9-rout-V3-0.brd              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jan 16 13:41:53 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Jan 16 13:41:53 2016				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design = 'D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/remotepanasonicDB9-rout-V3-0.brd'
+Output design = ''
+Update mechanical symbols = 'NO'
+Update format symbols = 'NO'
+Update package symbols = 'YES'
+Update shape/flash symbols = 'NO'
+Update symbol padstacks = 'YES'
+Reset symbol text and size locations = 'NO'
+Reset Pin Escapes (fanouts) = 'NO'
+Ripup Etch = 'NO'
+Reset custom drill data = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           ./all_lib/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           d:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           d:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           ./all_lib/ 
+
+
+------ Symbol Refresh Messages ------
+
+'XALTDIP2'  symbol refreshed successfully.
+'SOT23_B'  symbol refreshed successfully.
+'SOP8'  symbol refreshed successfully.
+'XTAL-3_4MM-2P'  symbol refreshed successfully.
+'NUC122LQFP48'  symbol refreshed successfully.
+'TO262'  symbol refreshed successfully.
+'HR911105A'  symbol refreshed successfully.
+'DC205'  symbol refreshed successfully.
+'HDR1X5'  symbol refreshed successfully.
+'DB9RA_M'  symbol refreshed successfully.
+'0805'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX1_46Y3_50R0_10T'  pad stack refreshed successfully.
+'C65D50'  pad stack refreshed successfully.
+'PAD1'  pad stack refreshed successfully.
+'PAD2'  pad stack refreshed successfully.
+'PAD3'  pad stack refreshed successfully.
+'C54D39'  pad stack refreshed successfully.
+'S54D39-L-A'  pad stack refreshed successfully.
+'C200D126'  pad stack refreshed successfully.
+'C150D137NP'  pad stack refreshed successfully.
+'PAD21'  pad stack refreshed successfully.
+'PAD22'  pad stack refreshed successfully.
+'PAD14'  pad stack refreshed successfully.
+'PAD23'  pad stack refreshed successfully.
+'RX10_70Y10_46R0_10T'  pad stack refreshed successfully.
+'PAD15'  pad stack refreshed successfully.
+'PAD16'  pad stack refreshed successfully.
+'PAD17'  pad stack refreshed successfully.
+'S65D50'  pad stack refreshed successfully.
+'PAD18'  pad stack refreshed successfully.
+'C118D78'  pad stack refreshed successfully.
+'PAD19'  pad stack refreshed successfully.
+'SMD24X75-L'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Completed refreshing all symbols successfully.

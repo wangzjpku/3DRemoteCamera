@@ -1,0 +1,118 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (File ".\remoteforpanasonic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "4")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\REMOTEFORPANASONIC.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\REMOTEFORPANASONIC.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (IREFReportFile
+       "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\REMOTEFORPANASONIC.csv")
+    (IREFViewOutput "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\remoteforpanasonic.bom"
+      (Type "Report"))
+    (File ".\remoteforpanasonic.csv"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (X9C103
+      (FullPartName "X9C103.Normal")
+      (LibraryName
+         "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (X9C102
+      (FullPartName "X9C102.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RJ45
+      (FullPartName "RJ45.Normal")
+      (LibraryName
+         "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\remoteforpanasonic.dsn")
+      (Path "Design Resources" ".\remoteforpanasonic.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library1.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\remoteforpanasonic.dsn" "Design Cache"
+         "VCC"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 269"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1182 50 357")
+        (Scroll "-8 20")
+        (Zoom "110")
+        (Occurrence "/"))
+      (Path
+         "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\REMOTEFORPANASONIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RemotePanasonic"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 75 1207 75 382")
+        (Scroll "-72 141")
+        (Zoom "110")
+        (Occurrence "/"))
+      (Path
+         "D:\6-PCN-PROJECT\8-摄像机云台转换控制系统\电路\REMOTEFORPANASONIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RemotePanasonic2")))
+  (MPSSessionName "Administrator")
+  (ISPCBBASICLICENSE "false"))

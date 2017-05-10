@@ -1,0 +1,60 @@
+\t (00:11:23) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:11:23)     Journal start - Sat Jan 02 00:37:57 2016
+\t (00:11:23)         Host=WZJ-PC User=Administrator Pid=9692 CPUs=4
+\t (00:11:23) 
+\d (00:11:23) Database opened: D:/6-PCN-Project/8-摄像机云台转换控制系统/电路/all_lib/xaltdip2.dra
+\i (00:11:23) generaledit 
+\i (00:11:44) pick grid -2.20 5.95
+\t (00:11:44) last pick:  0.00  0.00
+\i (00:11:48) padeditdb 
+\i (00:11:50) setwindow form.mini
+\i (00:11:50) FORM mini padlist PAD22 
+\i (00:11:52) FORM mini pad_stack_edit  
+\i (00:11:55) setwindow form.padedit
+\i (00:11:55) FORM padedit layers  
+\i (00:12:05) pse_exit
+\i (00:12:06) setwindow form.mini
+\i (00:12:06) FORM mini padlist PAD23 
+\i (00:12:08) FORM mini pad_stack_edit  
+\i (00:12:17) setwindow form.padedit
+\i (00:12:17) pse_exit
+\i (00:12:23) setwindow form.mini
+\i (00:12:23) FORM mini padlist PAD22 
+\i (00:12:24) FORM mini pad_stack_edit  
+\i (00:12:33) setwindow form.padedit
+\i (00:12:33) pse_exit
+\i (00:12:34) setwindow form.mini
+\i (00:12:34) FORM mini padlist PAD23 
+\i (00:12:36) FORM mini pad_stack_edit  
+\i (00:12:41) setwindow form.padedit
+\i (00:12:41) FORM padedit grid rpopup bottom Copy 
+\i (00:12:44) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:12:47) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:12:50) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:12:58) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:13:07) pse_save 
+\i (00:13:10) setwindow text
+\i (00:13:10) close 
+\i (00:13:14) fillin yes 
+\i (00:13:15) fillin yes 
+\i (00:13:20) setwindow form.padedit
+\i (00:13:20) pse_update_exit 
+\i (00:13:22) setwindow text
+\i (00:13:22) close 
+\i (00:13:27) fillin yes 
+\i (00:13:29) setwindow pcb
+\i (00:13:29) save 
+\i (00:13:32) fillin yes 
+\t (00:13:32) Symbol 'xaltdip2.psm' created.
+\i (00:13:32) generaledit 
+\i (00:13:40) open 
+\i (00:13:50) fillin "D:\6-PCN-Project\8-摄像机云台转换控制系统\电路\remotepanasonicDB9-rout-V2-0.brd"
+\i (00:13:50) cd "D:\6-PCN-Project\8-摄像机云台转换控制系统\电路"
+\t (00:13:50) Opening existing design...
+\i (00:13:50) trapsize 426
+\i (00:13:50) trapsize 411
+\i (00:13:50) trapsize 426
+\i (00:13:50) trapsize 432
+\i (00:13:51) trapsize 334
+\i (00:13:51) trapsize 334
+\t (00:13:51)     Journal end - Sat Jan 02 00:40:25 2016
